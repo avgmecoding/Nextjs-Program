@@ -1,7 +1,9 @@
+
 export const metadata = {
     title: {
         absolute: "File whatever"
-    }
+    },
+    description: "Hello World"
 }
 
 export default async function FileComponent({params}){

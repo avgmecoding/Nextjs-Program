@@ -5,9 +5,10 @@ export default function Home() {
   return (
     <>
       <h1>Welcome to my Home Page.</h1>
-      <Link href="/about">About</Link> {" "}
+      <Link href="/about">About</Link> <br />
       <Link href="/services">Services</Link><br />
-      <Link href="/blogs">Blogs</Link>
+      <Link href="/blogs">Blogs</Link><br />
+      <Link href="/files">Files</Link>
     </>
   );
 }

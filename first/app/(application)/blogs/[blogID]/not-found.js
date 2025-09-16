@@ -8,7 +8,7 @@ export default function BlogNotFound() {
   
   return (
     <div>
-      <h1>{a.split()} Blog page not found!!</h1>
+      <h1>Blog page not found!!</h1>
       <p>Couldn't found the page you are looking for....</p>
     </div>
   )

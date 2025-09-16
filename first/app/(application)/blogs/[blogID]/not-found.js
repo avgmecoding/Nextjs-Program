@@ -3,8 +3,8 @@
 import { usePathname } from "next/navigation"
 
 export default function BlogNotFound() {
-  const a = usePathname()
-  console.log(a);
+  // const a = usePathname()
+  // console.log(a);
   
   return (
     <div>
